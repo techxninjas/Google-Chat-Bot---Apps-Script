@@ -84,11 +84,7 @@ To make your bot live and available for testing:
 
 ### ✅ Step 1: OAuth Setup
 - Go to [OAuth Consent Screen](https://console.cloud.google.com/apis/credentials/consent?)
-- Choose **Internal**, click Continue.
-- Fill the form with:
-  - App Name: `Attendance Bot`
-  - User Support Email: Your Gmail
-  - Developer Contact Info: Your Gmail again
+- See the Video: [How to Setup](https://www.youtube.com/@techxninjas/videos)
 
 ### ✅ Step 2: Configure Google Chat API
 - Go to [Google Chat API Config](https://console.cloud.google.com/apis/api/chat.googleapis.com/hangouts-chat?)
@@ -104,14 +100,6 @@ To make your bot live and available for testing:
 | Visibility         | Add your Gmail address                                            |
 
 - Change the status to **LIVE**.
-
----
-
-## 💬 Interacting with Your Bot
-
-- Go to [Google Chat](https://chat.google.com/)
-- Start a chat and search for **`Attendance Bot`**
-- Send a message to see your bot reply.
 
 ---
 
