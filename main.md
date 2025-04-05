@@ -95,8 +95,8 @@ To make your bot live and available for testing:
 | App Name           | Attendance Bot                                                    |
 | Avatar URL         | `https://goo.gl/kv2ENA`                                           |
 | Description        | Simple Chat Bot for attendance                                    |
-| Functionality      | Tick both options: "Receive 1:1 messages" and "Join group chats"  |
-| Connection Settings| Use **Apps Script Project** and paste your **Deployment ID**      |
+| Functionality      | Tick both options: "Receive 1:1 messages" and "Join spaces and group conversations"  |
+| Connection Settings| Use **App Script** and paste your **Deployment ID**      |
 | Visibility         | Add your Gmail address                                            |
 
 - Change the status to **LIVE**.
